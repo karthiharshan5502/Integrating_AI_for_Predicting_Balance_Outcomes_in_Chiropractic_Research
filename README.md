@@ -1,0 +1,2 @@
+# Integrating_AI_for_Predicting_Balance_Outcomes_in_Chiropractic_Research
+Relationship between vertebral subluxation and balance indicators
